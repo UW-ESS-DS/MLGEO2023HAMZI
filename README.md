@@ -12,7 +12,7 @@ URL link to class github: https://github.com/UW-ESS-DS/MLGeo-2023
 
 # Code to clone my repository
 ```
-git clone https://github.com/mhamzirapi/MLGEO2023HAMZI
+!git clone https://github.com/mhamzirapi/MLGEO2023HAMZI
 ```
 
 # License
